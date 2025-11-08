@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+# Groq LLM
+groq
+
+# Qdrant Cloud + embeddings (local)
+qdrant-client
+sentence-transformers
+numpy
+pydantic[email]

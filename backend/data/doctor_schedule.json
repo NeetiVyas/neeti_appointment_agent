@@ -1,0 +1,14 @@
+{
+    "working_hours": {"start": "09:00", "end": "17:00"},
+    "appointments": [
+        {
+            "booking_id": "APPT-EX-001",
+            "appointment_type": "consultation",
+            "date": "2024-01-15",
+            "start_time": "09:30",
+            "end_time": "10:00",
+            "patient": {"name": "Existing Patient", "email": "ex@example.com", "phone": "+1-555-0000"},
+            "reason": "Follow-up"
+        }
+]
+}

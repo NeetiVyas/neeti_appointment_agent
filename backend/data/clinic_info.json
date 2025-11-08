@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What insurance do you accept?",
+        "answer": "We accept Blue Cross Blue Shield, Aetna, Cigna, UnitedHealthcare, and Medicare. We also accept self-pay patients."
+    },
+    {
+        "question": "What are your hours?",
+        "answer": "Our clinic is open Monday to Friday, 9:00 AM to 5:00 PM."
+    },
+    {
+        "question": "What's your cancellation policy?",
+        "answer": "Please cancel at least 24 hours before your appointment to avoid fees."
+    }
+]
